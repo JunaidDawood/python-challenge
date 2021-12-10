@@ -1,7 +1,3 @@
-# NU Data Science Boot Camp, Summer 2021 Session, Week 3 Homework: Python Challenge/PyPoll
-# Written by Seong-Min Kim, Date: July 15, 2021
-
-# Imports modules
 import os
 import csv
 
